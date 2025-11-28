@@ -1,1 +1,1 @@
-These two files are the codes which is conducted in class
+These two files are the codes which are conducted in class
